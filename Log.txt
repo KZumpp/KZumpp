@@ -1,0 +1,80 @@
+ 04/20/2022 01:43 PM We're writing a little test message.
+ 04/20/2022 01:43 PM We're writing a little test message.
+ 04/20/2022 01:49 PM We're writing a little test message.
+ 04/20/2022 01:50 PM We're writing a little test message.
+ 04/20/2022 01:51 PM INVENTORY UPDATED
+ 04/20/2022 01:51 PM Money Received:5.0
+ 04/20/2022 01:51 PM Slot ID of product requested: A1
+ 04/20/2022 01:51 PM Amount of items requested by user: 2
+ 04/20/2022 01:51 PM User entered insufficient funds for purchase.
+ 04/20/2022 01:51 PM Money Received:15.0
+ 04/20/2022 01:51 PM Amount of items requested by user: 1
+ 04/20/2022 01:51 PM Item dispensed: POTATO CRISPS | Quantity dispensed: 1
+ 04/20/2022 01:51 PM Current inventory of item purchased: 4
+ 04/20/2022 01:51 PM Balance remaining after transaction by customer: 11.95
+ 04/20/2022 01:51 PM Change dispensed to user: Quarters: 47 Dimes: 2 Nickels: 0
+ 04/20/2022 01:51 PM Balance in machine after change dispensed: 0
+ 04/20/2022 01:51 PM INVENTORY UPDATED
+ 04/20/2022 01:51 PM Money Received:5.0
+ 04/20/2022 01:52 PM Slot ID of product requested: A1
+ 04/20/2022 01:52 PM Amount of items requested by user: 1
+ 04/20/2022 01:52 PM Item dispensed: POTATO CRISPS | Quantity dispensed: 1
+ 04/20/2022 01:52 PM Current inventory of item purchased: 4
+ 04/20/2022 01:52 PM Balance remaining after transaction by customer: 1.95
+ 04/20/2022 01:52 PM Change dispensed to user: Quarters: 7 Dimes: 2 Nickels: 0
+ 04/20/2022 01:52 PM Balance in machine after change dispensed: 0
+ 04/20/2022 01:53 PM INVENTORY UPDATED
+ 04/20/2022 01:54 PM Money Received:5.0
+ 04/20/2022 01:54 PM Slot ID of product requested: A1
+ 04/20/2022 01:54 PM Amount of items requested by user: 1
+ 04/20/2022 01:54 PM Item dispensed: POTATO CRISPS | Quantity dispensed: 1
+ 04/20/2022 01:54 PM Current inventory of item purchased: 4
+ 04/20/2022 01:54 PM Balance remaining after transaction by customer: 1.95
+ 04/20/2022 01:54 PM Money Received:6.95
+ 04/20/2022 01:58 PM INVENTORY UPDATED
+ 04/20/2022 02:00 PM INVENTORY UPDATED
+ 04/20/2022 02:00 PM INVENTORY UPDATED
+ 04/20/2022 02:00 PM Money Received:1.0
+ 04/20/2022 02:00 PM Slot ID of product requested: A1
+ 04/20/2022 02:14 PM INVENTORY UPDATED
+ 04/20/2022 02:14 PM Money Received:5.0
+ 04/20/2022 02:14 PM INVENTORY UPDATED
+ 04/20/2022 02:14 PM Money Received: $ 10.00
+ 04/20/2022 02:15 PM INVENTORY UPDATED
+ 04/20/2022 02:15 PM Money Received: $10.00
+ 04/20/2022 03:43 PM INVENTORY UPDATED
+ 04/20/2022 03:43 PM Money Received: $5.00
+ 04/20/2022 03:43 PM Slot ID of product requested: A1
+ 04/20/2022 03:43 PM Amount of items requested by user: 1
+ 04/20/2022 03:43 PM Item dispensed: POTATO CRISPS | Quantity dispensed: 1
+ 04/20/2022 03:43 PM Current inventory of item purchased: 4
+ 04/20/2022 03:43 PM Balance remaining after transaction by customer: 1.95
+ 04/20/2022 03:43 PM Change dispensed to user: Quarters: 7 Dimes: 2 Nickels: 0
+ 04/20/2022 03:43 PM Balance in machine after change dispensed: 0
+ 04/20/2022 03:46 PM INVENTORY UPDATED
+ 04/20/2022 03:46 PM Money Received: $5.00
+ 04/20/2022 03:46 PM Slot ID of product requested: A1
+ 04/20/2022 03:46 PM Amount of items requested by user: 1
+ 04/20/2022 03:46 PM Item dispensed: POTATO CRISPS | Quantity dispensed: 1
+ 04/20/2022 03:46 PM Current inventory of item purchased: 4
+ 04/20/2022 03:46 PM Balance remaining after transaction by customer: 1.95
+ 04/20/2022 03:46 PM Change dispensed to user: Quarters: 7 Dimes: 2 Nickels: 0
+ 04/20/2022 03:46 PM Balance in machine after change dispensed: 0
+ 04/20/2022 04:40 PM INVENTORY UPDATED
+ 04/20/2022 04:40 PM Money Received: $5.00
+ 04/20/2022 04:40 PM Slot ID of product requested: A1
+ 04/20/2022 04:40 PM Amount of items requested by user: 1
+ 04/20/2022 04:40 PM Item dispensed: POTATO CRISPS | Quantity dispensed: 1
+ 04/20/2022 04:40 PM Current inventory of item purchased: 4
+ 04/20/2022 04:40 PM Balance remaining after transaction by customer: 1.95
+ 04/20/2022 04:40 PM Change dispensed to user: Quarters: 7 Dimes: 2 Nickels: 0
+ 04/20/2022 04:40 PM Balance in machine after change dispensed: 0
+ 04/20/2022 05:04 PM INVENTORY UPDATED
+ 04/20/2022 05:16 PM Money Received: $5.00
+ 04/20/2022 05:17 PM Slot ID of product requested: A1
+ 04/20/2022 05:17 PM Amount of items requested by user: 1
+ 04/20/2022 05:17 PM Item dispensed: POTATO CRISPS | Quantity dispensed: 1
+ 04/20/2022 05:17 PM Current inventory of item purchased: 4
+ 04/20/2022 05:17 PM Balance remaining after transaction by customer: 1.95
+ 04/20/2022 05:17 PM Change dispensed to user: Quarters: 7 Dimes: 2 Nickels: 0
+ 04/20/2022 05:17 PM Balance in machine after change dispensed: 0
